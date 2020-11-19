@@ -19,11 +19,11 @@ export default function HomePage() {
               best-in-class developer experience of Reflexjs.
             </p>
             <div display="inline-grid" col="2" gap="4" mt="6">
-              <a href="/" variant="button.primary.lg">
+              <a href="https://reflexjs.org" variant="button.primary.lg">
                 Get Started
               </a>
               <a
-                href="https://github.com/domitriusclark/mdnext"
+                href="https://github.com/reflexjs/reflex"
                 variant="button.muted.lg"
               >
                 GitHub
