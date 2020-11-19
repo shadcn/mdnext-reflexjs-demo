@@ -4,7 +4,7 @@
 
 Blast off with the speed of **Nextjs**, the power of **MDX** and the best-in-class developer experience of [Reflexjs](https://reflexjs.org).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fdomitriusclark%2Fmdnext-reflexjs)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Farshad%2Fmdnext-reflexjs-demo)
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/domitriusclark/mdnext-reflexjs)
 
 ## Demo
