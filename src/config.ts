@@ -18,7 +18,7 @@ const config = {
     },
     {
       title: 'Twitter',
-      url: '#',
+      url: 'https://twitter.com/arshadcn',
     },
   ],
   blog: {
